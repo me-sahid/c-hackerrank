@@ -1,6 +1,6 @@
 /*
 PROBLEM: Bitwise Operators
-DATE: 05/05/2025
+DATE: 06/05/2025
 AUTHOR: SAHID ZACK
 */
 #include<stdio.h>
