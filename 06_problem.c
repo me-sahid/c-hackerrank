@@ -8,8 +8,10 @@ AUTHOR: SAHID ZACK
 #include <stdlib.h>
 
 void update(int *a,int *b) {
-    *a = *a + *b;
-    *b = abs(a - b); 
+    int sum = *a + *b;
+    int diff = abs(*a - *b); 
+    *a = sum;
+    *b = diff;
 }
 
 int main() {
