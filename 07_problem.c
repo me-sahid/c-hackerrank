@@ -1,3 +1,8 @@
+/*
+PROBLEM: Bitwise Operators
+DATE: 05/05/2025
+AUTHOR: SAHID ZACK
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
