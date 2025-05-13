@@ -2,7 +2,7 @@
 PROBLEM: Write a C program which uses a single string variable to print
          Hello
          CodeChef!(CodeChef)
-DATE: 11/05/2025
+DATE: 14/05/2025
 AUTHOR: SAHID ZACK
 */
 #include<stdio.h>
