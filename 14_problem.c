@@ -1,5 +1,5 @@
 /*
-PROBLEM: Count UpperCase and LowerCase Characters
+PROBLEM: Count UpperCase and LowerCase Characters(CodeChef)
 DATE: 11/05/2025
 AUTHOR: SAHID ZACK
 */
