@@ -4,20 +4,21 @@ DATE: 11/05/2025
 AUTHOR: SAHID ZACK
 */
 #include <stdio.h>
+#include<string.h>
 #include<ctype.h>
 
 int main() {
     char str[] = "ChefSaysHi";
-    int countUpp = 0, countLow = 0;
-    for(int i = 0; str[i] != '\0'; i++){
-        if(isupper((unsigned char) str[i])){
-            countUpp++;
+    int len = strlen(str);
+    int countUp = 0, countLow = 0;
+    for(int i = 0; i < len; i++){
+        if(isupper((unsigned char)str[i])){
+            countUp++;
         }
-        else if(islower((unsigned char) str[i])){
+        else if(islower((unsigned char)str[i])){
             countLow++;
         }
     }
-    printf("%d %d", countUpp, countLow);
-    
-    return 0;   
+    printf("%d %d", countUp,countLow);
+    return 0;
 }
