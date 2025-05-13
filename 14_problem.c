@@ -1,6 +1,6 @@
 /*
 PROBLEM: Count UpperCase and LowerCase Characters(CodeChef)
-DATE: 11/05/2025
+DATE: 14/05/2025
 AUTHOR: SAHID ZACK
 */
 #include <stdio.h>
